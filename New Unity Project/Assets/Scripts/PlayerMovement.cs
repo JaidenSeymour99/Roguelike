@@ -10,15 +10,12 @@ public class PlayerMovement : MonoBehaviour
     Vector2 direction;
 
 
-
-
-    // Start is called before the first frame update
     void Start()
     {
+        
         rb = GetComponent<Rigidbody2D>();    
     }
 
-    // Update is called once per frame
     void Update()
     {
         InputController();
@@ -36,6 +33,9 @@ public class PlayerMovement : MonoBehaviour
         float moveY = Input.GetAxisRaw("Vertical");
 
         direction = new Vector2(moveX, moveY).normalized;
+
+
+
     }
 
     void Move()
