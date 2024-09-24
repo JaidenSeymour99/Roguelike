@@ -157,12 +157,12 @@ TextureImporter:
       name: Ghost1_Attack_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3456
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 99
+        y: 3597
+        width: 329
+        height: 623
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -178,12 +178,12 @@ TextureImporter:
       name: Ghost1_Attack_1
       rect:
         serializedVersion: 2
-        x: 847
-        y: 3456
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 911
+        y: 3597
+        width: 370
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -199,12 +199,12 @@ TextureImporter:
       name: Ghost1_Attack_2
       rect:
         serializedVersion: 2
-        x: 1694
-        y: 3456
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1731
+        y: 3596
+        width: 397
+        height: 617
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -220,12 +220,12 @@ TextureImporter:
       name: Ghost1_Attack_3
       rect:
         serializedVersion: 2
-        x: 2541
-        y: 3456
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2696
+        y: 3597
+        width: 300
+        height: 713
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -241,12 +241,12 @@ TextureImporter:
       name: Ghost1_Attack_4
       rect:
         serializedVersion: 2
-        x: 3388
-        y: 3456
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3672
+        y: 3606
+        width: 356
+        height: 671
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -262,12 +262,12 @@ TextureImporter:
       name: Ghost1_Attack_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2592
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 246
+        y: 2758
+        width: 549
+        height: 562
+      alignment: 9
+      pivot: {x: 0.3381038, y: 0.4878351}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -283,12 +283,12 @@ TextureImporter:
       name: Ghost1_Attack_6
       rect:
         serializedVersion: 2
-        x: 847
-        y: 2592
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1065
+        y: 2740
+        width: 545
+        height: 573
+      alignment: 9
+      pivot: {x: 0.3996405, y: 0.5119322}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -304,12 +304,12 @@ TextureImporter:
       name: Ghost1_Attack_7
       rect:
         serializedVersion: 2
-        x: 1694
-        y: 2592
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1901
+        y: 2686
+        width: 447
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -325,12 +325,12 @@ TextureImporter:
       name: Ghost1_Attack_8
       rect:
         serializedVersion: 2
-        x: 2541
-        y: 2592
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2749
+        y: 2685
+        width: 442
+        height: 625
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -346,12 +346,12 @@ TextureImporter:
       name: Ghost1_Attack_9
       rect:
         serializedVersion: 2
-        x: 3388
-        y: 2592
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3601
+        y: 2681
+        width: 448
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -367,12 +367,12 @@ TextureImporter:
       name: Ghost1_Attack_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1728
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 223
+        y: 1822
+        width: 479
+        height: 626
+      alignment: 9
+      pivot: {x: 0.45717964, y: 0.5000004}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -388,12 +388,12 @@ TextureImporter:
       name: Ghost1_Attack_11
       rect:
         serializedVersion: 2
-        x: 847
-        y: 1728
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1084
+        y: 1858
+        width: 516
+        height: 593
+      alignment: 9
+      pivot: {x: 0.39400038, y: 0.5000004}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -409,12 +409,12 @@ TextureImporter:
       name: Ghost1_Attack_12
       rect:
         serializedVersion: 2
-        x: 1694
-        y: 1728
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1948
+        y: 1902
+        width: 528
+        height: 551
+      alignment: 9
+      pivot: {x: 0.34461373, y: 0.4875918}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -430,12 +430,12 @@ TextureImporter:
       name: Ghost1_Attack_13
       rect:
         serializedVersion: 2
-        x: 2541
-        y: 1728
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2813
+        y: 1894
+        width: 508
+        height: 563
+      alignment: 9
+      pivot: {x: 0.3115792, y: 0.48785672}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -451,12 +451,12 @@ TextureImporter:
       name: Ghost1_Attack_14
       rect:
         serializedVersion: 2
-        x: 3388
-        y: 1728
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3675
+        y: 1888
+        width: 499
+        height: 572
+      alignment: 9
+      pivot: {x: 0.2944791, y: 0.5000004}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -472,12 +472,12 @@ TextureImporter:
       name: Ghost1_Attack_15
       rect:
         serializedVersion: 2
-        x: 0
-        y: 864
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 300
+        y: 1019
+        width: 440
+        height: 579
+      alignment: 9
+      pivot: {x: 0.34461358, y: 0.50000024}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -493,12 +493,12 @@ TextureImporter:
       name: Ghost1_Attack_16
       rect:
         serializedVersion: 2
-        x: 847
-        y: 864
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1153
+        y: 1015
+        width: 341
+        height: 612
+      alignment: 9
+      pivot: {x: 0.39975128, y: 0.5000004}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -514,12 +514,12 @@ TextureImporter:
       name: Ghost1_Attack_17
       rect:
         serializedVersion: 2
-        x: 1694
-        y: 864
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1974
+        y: 1013
+        width: 243
+        height: 619
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -535,12 +535,12 @@ TextureImporter:
       name: Ghost1_Attack_18
       rect:
         serializedVersion: 2
-        x: 2541
-        y: 864
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2758
+        y: 1010
+        width: 237
+        height: 649
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -556,12 +556,12 @@ TextureImporter:
       name: Ghost1_Attack_19
       rect:
         serializedVersion: 2
-        x: 3388
-        y: 864
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3524
+        y: 1008
+        width: 301
+        height: 639
+      alignment: 9
+      pivot: {x: 0.65900207, y: 0.50000036}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -577,12 +577,12 @@ TextureImporter:
       name: Ghost1_Attack_20
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 847
-        height: 864
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 99
+        y: 142
+        width: 331
+        height: 622
+      alignment: 9
+      pivot: {x: 0.70655626, y: 0.48900828}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

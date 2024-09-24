@@ -9,6 +9,8 @@ public class PlayerMovement : MonoBehaviour
     Rigidbody2D rb;
     public Vector2 direction;
 
+    public bool facingRight = true;
+
 
     void Start()
     {
