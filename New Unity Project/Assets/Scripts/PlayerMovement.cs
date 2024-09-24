@@ -7,7 +7,7 @@ public class PlayerMovement : MonoBehaviour
 
     public float mvtspeed;
     Rigidbody2D rb;
-    Vector2 direction;
+    public Vector2 direction;
 
 
     void Start()
